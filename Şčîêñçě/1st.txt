@@ -1,0 +1,38 @@
+unit of concentration
+
+mass of NaoH = 10g
+Volume of solution = 1 litre
+Molarity of NaoH = M = ?
+Mass of NaOH = 23+16+1
+       Na,O,H = 40g mol inverse 1 (-1)
+
+*Molarity = No .of Moles of solution/Nolume of solution
+No of moles = mass / molar mass
+
+*****Mole Fraction**********
+A        B
+nA  +    nB
+Mole Fraction of A  = No of mole of A ? Total No of Moles
+                    = nA /  nA + nB
+Mole Fraction of B  = No of mole of B /Total no of momomole
+                    = nA /  nA + nB
+Example of Mole Fraction :- 
+girls    + 10
+boys = 2o
+mole fraction of girls = 10 /3 
+
+mole fraction of girls = 10 / 30
+ = 0.33
+mole fraction of boys = 20  / 30 
+  = 0.66
+
+********* mass % or Weight % (w/w %)
+mass % = mass of solute / mass of solute * 100
+     = 6 / 66 * 100
+     =9.09
+
+mass of solution = 6
+mass of solution = mass of solute
+    = 6 + 66 
+   = 66
+
