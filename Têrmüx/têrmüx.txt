@@ -1,0 +1,114 @@
+encryption and decryption
+$ git clone https://github.com/fortifysolutions/EncryptDecrypt.git = clone the link
+$ ls = list derictory
+$ cd EncryptDecrypt = change directory
+$ ls = list derictory
+$ chmod +x * = change mode
+$ ls = list derictory
+$ python EncryptDecrypt = run the tool
+$ cat LogSheet.txt = file of encryptdecrypt
+
+install dnsutils
+$ pkg install dnsutils = install that package
+$ nslookup = start the tool
+$ > google.com = type the name of website
+
+install darkfly
+$ pkg install git = install git package
+$ git clone https://github.com/Ranginang67/DarkFly-tool = clone the link from github
+$ pkg install python2 = install python2 for run the tool
+$ ls = list the directory
+cd darkfly-tool 
+$ cd Dark-Fly = change the directory 
+$ ls = list the directory
+$ chmod +x * = change the mod of all file
+$ ls = list the directory
+$ python2 install.py = run the file by using the python 
+$ DarkFly = run the tool
+
+install nmap
+$pkg install nmap = installthe tool nmap
+$ nmap = run the tool
+$ nmap 152.57.216.41 = type ip address to gather information 
+$ nmap -pn
+$ nmap 152.57.238.201
+$ nmap 152.57.238.201 -p
+$ nmap 152.57.238.201 -pn
+$ nmap 152.57.238.201 -p 1-100
+$ nmap 152.57.238.201 -p 1-1000
+  
+  install cmatrix and sl
+$ apt update
+$ apt upgrade
+$ pkg install sl
+$ sl
+$ pkg install cmatrix
+$ cmatrix
+
+Intallation of tool-x
+$ git clone https://github.com/Rajkumrdusad/Tool-x
+$ ls = to find the tool-x command in the storage
+$ cd Tool-x = go into the Tool-x folder
+$ ls = list it
+$ sh install.aex = run it command
+$ Tool-X = run command to open tool-x
+
+ip address finder
+$ it clone https://github.com/fortifysolutions/ipaddress
+$ ls = list directory
+$ cd ipaddress = change directory
+$ ls = list directory
+$ chmod +x * = change mode
+$ ls = list 
+$ python IPaddress = run too using python
+
+play music in têrmüx
+$ pkg install tree = install it tool
+$ pkg install play-audio = install it atoolthat play audio
+$ cd storage
+$ cd file name = go to music folder for play the music
+$ tree = run the tool
+$ play-audio 'Manike Mage Hithe _ Manike Mage Hithe මැණිකේ මගේ හිතේ - Cover - Yohani & Parv Mishra.mp3' = run the tool and give it name
+
+send email through termux
+$ pkg install python = install python
+$ pkg install git = installgit
+$ git clone https://github.com/fortifysolutions/EmailService = clone the link
+$ ls = list directory
+$ cd EmailService = change directory in email
+$ ls = list directory
+$ chmod +x Email = change mode
+4 python Email = run the Email use of python
+
+ têrmüx command line list
+$ ls = list directory
+$ cd share =change directory
+$ top = to check the all file run in termux
+$ quit = quit the termux
+$ apt update = update termux
+$ apt install git = install git
+$  apt install python = install python interpreater
+$ clear = clear the screen
+$ history = history of the termux command
+$ mv -r websites dcim = move the folder 
+$ mv --help = help command for move
+$ cp websites dcim = copy the folder
+$ termux-setup-storage = set the storage in the termux
+$ cp girish -r storage =  copy the folder in reverse
+$ ifconfig = to check the ip address
+$ pkg install dnsutils = install the nslookup
+$ pkg install php = install php
+$ pkg install nmap = install nmap
+$ cat python.py = open any file
+$ rm -rf girish = remove empty folder
+$ rmdir = remove directory
+$ ls -r = 
+$ touch zip.txt create a new folder
+$ echo girish = print name 
+$ echo "girish" > g.txt = create file of name girish
+$ cat > tm.txt = create a txt file
+$ head -2 tm.txt = to see the 2 first line in the txt file
+$ tail -5 tm.txt = to see the 5 last line in the txt file
+$ stat tm.txt =static info
+$ du = imformation of tool
+$ du --max-depth 3 ~ = detail imformationmation of tool

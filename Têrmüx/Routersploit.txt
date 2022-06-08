@@ -1,0 +1,12 @@
+###############--Install_routersploit_&_Use#################
+ls
+apt update && apt upgrade
+ls
+pkg install git
+git clone https:github.com/reverse-shell/routersploit
+ls
+cd routersploit
+ls
+pkg install python
+python -m pip install -r requirement.txt
+python rsf.py

@@ -1,0 +1,85 @@
+################Hacking######################
+ @ hacking Technique that are commonly use ---
+ ---> clickjacking attack
+ ---> virus ,trojan etc.......
+ ---> Phishing
+ ---> Eavesdropping (Passive attack)
+ ---> Fake WAP
+ ---> Water hole attack
+ ---> Denial of service(Dos \ DDos)...
+ --->
+
+
+Keylogger
+
+ @ hacking with ---
+ _ Web Application hacking
+ _ hacking wireless network
+ _ system Hacking
+ _ Web server Hacking
+ _ social engineering
+
+ @ Type of hacker ---
+ _ Black Hat Hacker
+ _ White Hat Hacker
+ _ Grey hat Hacker
+ _ Script Kiddie
+ _ Green hat
+ _ Red Hat
+ _ Blue Hat
+
+@ gain access to target
+ - Reconnaissance
+ - Scanning
+ - Gaining Access
+ - Maintaining Access
+ - Clearing Access
+ - Reporting
+
+@ Certificate of Hacking
+ ~ certified Ethical Hacker {EC-council}
+ ~ Certified Hacking Forensic Investigator {EC-council}
+ ~ GIAN Certified Penetration Tester (GPEN) {SAN and GCIA}
+ ~ Cisco's CCNA Security
+ ~ Certified Intrusion Analyst {GCIA}
+
+@ Programming Language
+ ~ html
+ ~ Javascript
+ ~ Python
+ ~ Java
+ ~ Sql
+ ~ Php
+ ~ c / C++
+ ~ Ruby
+
+@ Most common cyber attack types ---
+ >>> Denial-of-service (DoS) and distributed denial-of-service (DDoS) attack
+ >>> Man-in-the-middle (MitM) attack
+ >>> Phishing attack
+ >>> Spear phishing attack
+ >>> Drive-by attack
+ >>> Password atack
+ >>> Sql injection attack
+ >>> Cross-site scripting (XSS) attack
+ >>> Eavesdropping attack
+
+@ some impress Attack
+ * injection attack
+ * sensitive data explosure
+ * broken Authentication
+ * Scurity Misconfigurations
+ * use of component with known Vulnerabilities
+ * malware
+ * botnets
+ * adware
+
+
+###############--some_more--#################
+ Active directory
+ web application hacking
+ wireless hacking
+ cryptography skills
+
+
+nice performance

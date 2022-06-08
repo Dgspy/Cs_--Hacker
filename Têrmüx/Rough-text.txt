@@ -1,0 +1,53 @@
+################--Rough_Textbook--#################
+C -----------Create
+R -----------Read
+U -----------Update
+D -----------Delete
+
+@ python3 -m timteit -s "from math import sqrt" -n 10000 -r 5 "x = (143)"
+
+***smile And Relax ****
+   because its kills 
+ negativity ....
+ 
+
+####Karma Says
+ Mouths can lie,
+      eyes cannot
+ People may forget,
+     karma will not
+
+Beginners 
+ - HackerRanf
+ - hackerearth
+ - Geeksforgeeks
+
+Placement /interview preparation
+ - leetcode
+ - interviewBit
+
+competitive programing
+ - Codeforces
+ - codechef
+
+
+@ python code says 
+ -- timeit = Positional argument
+ -- -s "from math import sqrt " = setup argument
+ -- -n 10000 = number argument 
+ -- -r 5 = repet argument
+ -- x = sqrt(143) = timeit code snippet
+
+
+######Very Nice Defination of time#############
+ time is slow when you wait !!!
+ time is fast when you are late!!!1
+time is deadly when you are late !!!
+time is short when you are happy 
+
+time is endless when you are in pain !!1
+time is long when you feed bored !!
+every time, time is determined by your 
+feeling and your psychological condtion 
+and not by clocks...
+      so have a noce time always.............
