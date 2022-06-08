@@ -1,0 +1,15 @@
+who is an ethical hacker? What is the main difference from a computer hacker?
+::Well they are hackers .... but much more of the "good guys" than the usual destructive hackers. the ethical hackers are individuals who hack into computer network in order to asses of evaluate its secirty rather than with an intention for maliciousness or for a criminal act . They are also lnown as white hat hackers who ise hackong techniques in a legitimate and lawful manner . Ehile reqular hacker alse termed as 'black hat hackers' use the process of hacking for a destructive purpose of hacking for a destructive such as for phishing purpose such as for phishing purpose. This is the major difference between an ethical hacker and computer hacker.
+
+What Does Ethical Hacker do ?
+::An ethical hacker mainly dies scanning ports by looking for vulnerabilities. Another main job of ethical hacker is to check patch settings and ensure that these installations cannot be misused. The haclers can participate in social engineering concepts like diving-diving ar scavenging in bins for charts or passwords that can be used to engender an attack . Ehtical hackers aboid intrusion Detection and Prevention Syste. Additionally , an ethical hacker bypasses and hacks wireless encryption as well as hijacks web applications and web servers. Ethical hackers hacndle problems associated with the theft of laptops and fraud with employees.
+
+Top 7 Ethical Hacking Certifications
+1. Certified Ethical Hacking Certification
+2.GIAC Penetration Tester 
+3. Offiensive security certified professional 
+4. CREST ........
+5. foundstone ultimate Hacking...
+6. Certified penetration Testing Consultant
+7. Certified Penetration Testing Engineer.......
+

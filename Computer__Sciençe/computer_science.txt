@@ -1,0 +1,98 @@
+Computer Science Engineering (CSE) is an engineering discipline that covers several topics related to computation , programming languages, program design,computer hardware and software and integrates several fields of computer science .it is one of the treanding subjects which student pursue sfter completing class 12 . cse is a four -year undergraduare course which involves various aspects needed for the creation of a computer system.
+career option in CSE: career options in CSE include software developers m hardware engineers, system designers, system snalusts, database administrators and more. one must have analytical and programming skills, basic knowledge of web design m ideas of machine learning and algorithms to pursue a cse course.
+
+Subjects in CSE course::form computer architecture and organisation to software testing , there are varios subjects one has to study during this course. applicants also study cloud computing , database management systems, compiler design , computer networks, data structures and operating systems. 
+
+Eligibility Criteria for CSE::: Students who have passed their class 10 and 12 board examinations from a recognised education board with physics, chemistry and mathematics as primary subjects and appropriate passing marks can opt for this course, of you have completed your D.Tech from a recognised college with a minimum passing percentage. then you can go for CSE course....
+
+******************What is difference between B.Tech and M.Tech********************
+B.Tech is a graduation degree in engineering whereas M.Tech os a post-graduation degree . After B.Tech you have to crack Gate in orser to get admission in M.Tech........
+
+@############Computer Science vs Computer Engineering :: Roles and Responsibilities##################
+One strategy for determining whih path is right for you is to consider your career goals. for instance, if you are looking to work in cybersecurity or as a systems administrator, computer science may be a giid fit for . if your goal is to eventually becomes a software architect or developer, a degree in computer science or computer engineering will equip you gor the job. Advanced computer science curricula thoroughly cover how networks and systems security protocols work while teaching programming and appropriate mathematics concepts. 
+Computer scientists typicallly have an understanding of:::: programming languages such as Java, SQL, and Python; how to run. maintain . and fix Linux and Windows operating sustems; data structures and algorithms;
+basics cybersecurity and cryptography;
+knowledge of designing , coding, and testing software;
+how computer networks work and how to manage them.
+@###$%%^&&& Some common skills a computer engineer utilize include::::::
+A computer understanding og how computer hardware and architect works;
+Knowledge of designing. coding, and testing software ;
+flecibility to work with a wide range of software, which can be highly specialized depending on the company and /or industry;
+ability to build your own PC systems and repair/ maintain device drivers......
+
+$############################################################
+Computer Science === 1.Computer Science Started as a branch of Mathematics
+2. Computer Science deals eith data and algirithms
+3. Computer scientist work with computational theories, powerful algorithms, and mathematical models which are used to develop software programmes and systems..
+4.Computer Science specializations:::
+Artificial Intelligence
+Machine Learning
+Human-Computer Interaction(HIC)
+Data Security
+cloud Computing
+Cyber Security
+Video Game Development
+5.Computer Science Classes:::
+Theory of computation
+Software Security 
+computer graphics
+Algorithms and data structures
+Calculus
+Lineat algebra
+Software Engineering
+Web development
+Cryptography
+Programming
+6.Computer Science Students learn about computing Theory ,programming .environments, algorithms,data security and transfer.etc
+
+Computer Engineering:::
+1.computer Engineering began (and still is consodered by some ) as a branch of Electrocal Engineering
+2.computer engineering is focused on hardware and firmware..
+3.computer engineering ,on the other hand ,develop the hardware and formware in ehich software and system run..
+4.Computer Engineering Specializations:::
+Hardware Syatems 
+Distribured Computing
+Robotics and Cybernetics
+embedded Systems
+Computer Graphics and visualisation
+Medical Image Computing 
+computer and Network Security
+5.Computer Engineering classes::
+Introduction to Electronics
+Circuit analysis
+signal Processing
+Engineering Computing
+Embedded Systems
+Computer Networks
+Computer Vision
+Autonomous Robotics 
+Programming Principles
+Computer arcticture
+6.Computer Engineering students discover how to develop,prototype,and test microchips,circuits,processors.conductors and any other components used in computer devices or systems
+>>>>>>>>>>>>>>>>>>>>>>>>Computer Science Question Answer<<<<<<<<<<<<<<
+Computer Science Engineering .....
+ans :: Computer Science Engineering (CSE) is an engineering disciplint that covers several topics related to computation. programming languages, program design, computer hardware and software and integrates several fields of computer science. it is one of the trending subjects which students pursue after completing class12.. for more information click here... https://www.indiatoday.in
+
+What is computer Science?
+ans:: Computer Science is the study of computers and computing as well as their theoretical and practical applications. computer science applies the proncipkes of mathematics, engineering , and logic to a plethira of functions,including algorithm formulation, software and hardware development.and artificial intelligence........
+
+Who are the most well-known computer scientists?
+ans::The most influential computer scientists include Alan Turing , the world war II code breaker commonly regarded as the "father of modern computing" ; Tim Berners-lee, inventor of the world wide web; John McCarthy, inventor of the programming language LISP and artificial intelligence pioneer; and Grace Hopper . U.S. Navy officer and a key figure in the development of early computers such as the UNIVAC I as well as the development if the computer language compiler.
+
+What can you di with computer science?
+ans:: Computer science is applied to a wide range of desciplines that include modeling simulations such as the impacts if climate change and the Ebola virus , creating art and visualization through graphics rendering and simulating a human interface through artificial intelligence and machine learning........
+
+law for secreat information of company stealing ..
+ans::Section 43A of the IT Act provides that whenever a corpotate body possesses or deals with any sensitive personal data or information , and is negligent in maintaining a reasonable security to protect such data or information , which thereby causes wrongful loss or wrongful gain to any person , then such body corpotate......for more information click ::::: https://www.indialawoffices.com
+
+Defination of computer Science...
+ans:: Computer sicnce is the study of computers and computing as well as their theoratical and practical applications. Computer science applies the pronciples of mathematics , engineering and logic to a plethora of functions, including algorithm formulation,software and hardware development, and artificial intelligence .....for more information click here.. https://www.britannica.com
+
+Future scope in computer engineering...
+ans:: Computer Science and Engineering profesionals can build their career in numerous domains like artificial intelligence, embedded systems, ethical hacking, wireless network, computer manufacturing, database systems, web applications,animation, computer graphics,scientific modelling.computational biology,video games ....for more information click here ....https://www.avantikauniversity.edu.in
+
+Is computer Science used in Video Games?
+ans::Video game development is grounded in the principles of computer science and programming . modern graphics rendering in video games often employs advanced techniques such as ray tracing to provide realistic effects. the development of augmented reality and virtual reality has also expanded the range of possibilities of video game development....
+
+What is the future scope of computer science 
+ans:: Candidates now also have career prospects in new avenues related to the latest technologies such as machines learning, Data Science, Blockchain Development, Artificial intelligence, Robotics,Augmented and virtual Reality, cloud and Big Data , Data mining, Mobile app development , and internet of Things(IOT)......for more information click here::>>>> https://www.upgrade.com
